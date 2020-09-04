@@ -1,4 +1,4 @@
-package com.design.singleton.single_threaded;
+package com.design.singleton.multithreaded;
 
 public class Singleton {
     private static Singleton instance;
