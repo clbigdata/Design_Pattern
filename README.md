@@ -1,7 +1,7 @@
 # Design_Pattern
 Design Pattern code description 设计模式代码示例
 
-##1.创建型设计模式
+## 1.创建型设计模式
 > 这类模式提供创建对象的机制， 能够提升已有代码的灵活性和可复用性。
 - 工厂模式
 - 抽象工厂模式
